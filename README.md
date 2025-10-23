@@ -4,7 +4,7 @@ A fully responsive landing page showcasing the Flutter ecosystem, built with pur
 
 ## 🚀 Live Demo
 
-[View Live Project](https://yourusername.github.io/flutter-ecosystem)
+[View Live Project](https://flutter-echosystem-responsive-landing.netlify.app/)
 
 ## 📋 Features
 
@@ -52,3 +52,9 @@ flutter-ecosystem/
 ├── style.scss
 ├── style.css
 └── README.md
+
+
+==========================================================================================
+## Built as part of the curriculum at Sheryians Coding School
+## Feel Free to Explore 
+# Developer Name ==> Yugant Singh
